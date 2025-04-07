@@ -1,9 +1,24 @@
-# React TypeScript Starter Pack
+To-Do App 📝
+This is a simple To-Do application built with React and TypeScript. It allows users to add, remove, and mark tasks as completed.
 
-To use this template click `Use this template`
+🔗 Live Preview
+👉 View the app https://nnalinn.github.io/todoapp_react/
 
-### Available Scripts
+🛠️ Technologies Used
+React 
+TypeScript
+SCSS
+Git & GitHub Pages
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+🚀 Getting Started
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Clone the repository: git clone https://github.com/nnalinn/todoapp_react.git cd todoapp_react
+
+Install dependencies: npm install
+
+Run the project locally: npm start
+
+Features:
+Add new tasks to your to-do list
+
+Mark tasks as completed or delete them
